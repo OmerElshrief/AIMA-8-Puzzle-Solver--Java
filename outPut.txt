@@ -1,0 +1,3 @@
+Path: Path to the Goal:
+PathCost: 3
+Number of ExpandedNodes: 3Search Depth: 3

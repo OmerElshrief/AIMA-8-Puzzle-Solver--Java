@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/O:/Term%207/AI/Assignments/Assignment1_8Puzzle/src/Agents/SearchAgent.java</file>
+            <file>file:/O:/Term%207/AI/Assignments/Assignment1_8Puzzle/src/Utils/SearchHelper.java</file>
+            <file>file:/O:/Term%207/AI/Assignments/Assignment1_8Puzzle/src/ProblemFormulation/Node.java</file>
+            <file>file:/O:/Term%207/AI/Assignments/Assignment1_8Puzzle/src/ProblemFormulation/Problem.java</file>
+            <file>file:/O:/Term%207/AI/Assignments/Assignment1_8Puzzle/src/ProblemFormulation/SearchTree.java</file>
+            <file>file:/O:/Term%207/AI/Assignments/Assignment1_8Puzzle/src/assignment1_8puzzle/UI.java</file>
+            <file>file:/O:/Term%207/AI/Assignments/Assignment1_8Puzzle/src/Comparetors/EuclideanComparator.java</file>
+            <file>file:/O:/Term%207/AI/Assignments/Assignment1_8Puzzle/src/Comparetors/ManhattanComparator.java</file>
+            <file>file:/O:/Term%207/AI/Assignments/Assignment1_8Puzzle/src/assignment1_8puzzle/Assignment1_8Puzzle.java</file>
+        </group>
+    </open-files>
+</project-private>
